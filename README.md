@@ -1,1 +1,1 @@
-# Skin-cancer-detecgtion-iOS-App
+# Skin-cancer-detection-iOS-App
